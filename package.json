@@ -1,0 +1,12 @@
+{
+  "name": "attendia-bazacon",
+  "version": "1.0.0",
+  "description": "AtendIA Bazacon - WhatsApp AI Bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
